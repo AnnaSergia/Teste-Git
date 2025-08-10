@@ -1,0 +1,81 @@
+body{
+    text-align: center;
+    font-family: Open Sans, sans-serif;
+    background-color:#ffffff;
+    color:black;
+    margin: 0;
+    font-size: medium;
+}
+
+footer{
+    text-align: center;
+    background-color: #4c2e7e;
+    color: #ffffff;
+    margin: 0;
+    }
+
+.titulo-roxo{
+    color:#4c2e7e;
+    font-size: x-large;
+}
+
+.titulo-aquamarine{
+    color: aquamarine;
+}
+
+.titulo-rosa{
+    color: #de76f8;
+}
+
+header{
+    width: 100%;
+    background-color: #4c2e7e;
+    font-size: larger;
+    color: #ffffff;
+    margin: auto;
+    height: 15vh;
+    
+}
+ .Contatos{
+    display: inline;
+ }
+
+section{
+    width: 75%;
+    margin: auto;
+    font-size:medium;
+    text-align: center;
+}
+
+section section {
+    width: 100%;
+}
+
+ul{list-style-type: none;
+    text-align: center;
+    line-height: 1;
+    padding-left: 0;
+    word-spacing: normal;
+}
+
+button{
+    background-color: #4c2e7e;
+    color: #ffffff;
+    margin-bottom: 20px;
+    }
+    
+
+.Cabecalho {
+    color: #ffffff;
+}
+ a{
+    text-decoration: none;
+    font-weight: 400;
+ }
+ ul li{
+    display: inline-block;
+ }
+
+ h4{
+    margin-bottom: 30px;
+ }
